@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "314185836077",
+    "project_id": "saktong-musik",
+    "storage_bucket": "saktong-musik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314185836077:android:aab26dd8a9d06b33367aa4",
+        "android_client_info": {
+          "package_name": "com.saktongmusik.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314185836077-k9rqh1m6jfhvk05blep81k9pk26gkp5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saktongmusik.app",
+            "certificate_hash": "956840123f27f0e3987ba6113fb4085fb3dd144e"
+          }
+        },
+        {
+          "client_id": "314185836077-aiooroeon4agr0bllh1kl56du2ugbqto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAofVBCWEbTErt1McQa94lu4TVD1iEWQLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314185836077-aiooroeon4agr0bllh1kl56du2ugbqto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314185836077-0h8tk2e3h556fti1vk3k40rmbl7ubnom.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saktongmusic.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
